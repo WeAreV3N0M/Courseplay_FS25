@@ -14,7 +14,7 @@
     <text name="CP_unit_meter" text="m"/>
     <text name="CP_unit_foot" text="láb"/>
     <text name="CP_copy" text="Útvonal másolása: "/>
-    <text name="CP_infoText" text="Courseplay(%s): Ha segítségre van szükséged, hibajelentéseket vagy javításokat szeretnél benyújtani, látogass el a következő oldalra: https://github.com/Courseplay/Courseplay_FS22."/>
+    <text name="CP_infoText" text="Courseplay(%s): Ha segítségre van szükséged, hibajelentéseket vagy javításokat szeretnél benyújtani, látogass el a következő oldalra: https://github.com/Courseplay/Courseplay_FS25."/>
     <text name="CP_error_no_course" text="Először hozz létre egy útvonalat"/>
     <text name="CP_error_could_not_generate_course" text="Hiba az útvonaltervezéskor"/>
     <text name="CP_error_not_on_field" text="Csak szántóföldön lehet munkát végezni"/>
